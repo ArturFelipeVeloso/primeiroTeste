@@ -1,1 +1,27 @@
-blew
+comandos git
+
+1- abre a pasta do projeto
+2- inicia reposito git
+(git init)
+
+3- verifica os arquivos modificados e/ou não versionados
+(git status)
+
+4- adiciona todos os arquivos pro git 
+(git add --all)
+
+5- adiciona o repositório git
+( git add remote origin LINK)
+
+6- comita as modificações
+( git commit -m "teste descritivo do commit")
+
+7- sobe as modificações pro repositório git
+(git push)
+
+outros comandos
+(git pull - baixa o projeto doo repositório git p/ a sua máquina)
+
+adas
+
+
